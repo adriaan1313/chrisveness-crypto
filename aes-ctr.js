@@ -291,5 +291,3 @@ class AesCtr extends Aes {
 
 
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  */
-
-export default AesCtr;
